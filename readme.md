@@ -9,6 +9,7 @@
 ```bash
 pip install pyrebase4
 pip install flask
+python >= 3
 ```
 
 ## Setting up firebase
