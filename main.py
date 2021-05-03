@@ -1,17 +1,3 @@
-################################################################################
-################################################################################
-########                                                                ########
-########   Python - Firebase - Flask Login/Register App                 ########
-########   Author: Hemkesh Agrawal                                      ########
-########   Website: http://hemkesh.com                                  ########
-########   Last updated on: 11/27/2019                                  ########
-########                                                                ########
-########   P.S. This is my first ever github project, so I              ########
-########   would love to hear your feedback : agrawalh@msu.edu          ########
-########                                                                ########
-################################################################################
-################################################################################
-
 import pyrebase
 from flask import Flask, flash, redirect, render_template, request, session, abort, url_for
 
